@@ -1,0 +1,14 @@
+c:\users\jfvaleroso\documents\visual studio 2010\Projects\Renaissance.RestApi\Renaissance.RestApi\bin\Debug\Renaissance.RestApi.dll
+c:\users\jfvaleroso\documents\visual studio 2010\Projects\Renaissance.RestApi\Renaissance.RestApi\bin\Debug\Renaissance.RestApi.pdb
+c:\users\jfvaleroso\documents\visual studio 2010\Projects\Renaissance.RestApi\Renaissance.RestApi\obj\Debug\Renaissance.RestApi.dll
+c:\users\jfvaleroso\documents\visual studio 2010\Projects\Renaissance.RestApi\Renaissance.RestApi\obj\Debug\Renaissance.RestApi.pdb
+c:\users\jfvaleroso\documents\visual studio 2010\Projects\Renaissance.RestApi\Renaissance.RestApi\bin\Debug\System.Web.Http.dll
+c:\users\jfvaleroso\documents\visual studio 2010\Projects\Renaissance.RestApi\Renaissance.RestApi\bin\Debug\System.Net.Http.dll
+c:\users\jfvaleroso\documents\visual studio 2010\Projects\Renaissance.RestApi\Renaissance.RestApi\bin\Debug\System.Net.Http.Formatting.dll
+c:\users\jfvaleroso\documents\visual studio 2010\Projects\Renaissance.RestApi\Renaissance.RestApi\bin\Debug\System.Web.Http.WebHost.dll
+c:\users\jfvaleroso\documents\visual studio 2010\Projects\Renaissance.RestApi\Renaissance.RestApi\bin\Debug\Newtonsoft.Json.dll
+c:\users\jfvaleroso\documents\visual studio 2010\Projects\Renaissance.RestApi\Renaissance.RestApi\bin\Debug\System.Web.Http.xml
+c:\users\jfvaleroso\documents\visual studio 2010\Projects\Renaissance.RestApi\Renaissance.RestApi\bin\Debug\System.Net.Http.xml
+c:\users\jfvaleroso\documents\visual studio 2010\Projects\Renaissance.RestApi\Renaissance.RestApi\bin\Debug\System.Net.Http.Formatting.xml
+c:\users\jfvaleroso\documents\visual studio 2010\Projects\Renaissance.RestApi\Renaissance.RestApi\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\JFValeroso\documents\visual studio 2010\Projects\Renaissance.RestApi\Renaissance.RestApi\obj\Debug\Renaissance.RestApi.csprojResolveAssemblyReference.cache
