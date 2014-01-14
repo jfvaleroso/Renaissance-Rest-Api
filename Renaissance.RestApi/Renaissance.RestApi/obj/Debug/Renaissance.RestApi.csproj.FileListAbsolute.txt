@@ -12,3 +12,17 @@ c:\users\jfvaleroso\documents\visual studio 2010\Projects\Renaissance.RestApi\Re
 c:\users\jfvaleroso\documents\visual studio 2010\Projects\Renaissance.RestApi\Renaissance.RestApi\bin\Debug\System.Net.Http.Formatting.xml
 c:\users\jfvaleroso\documents\visual studio 2010\Projects\Renaissance.RestApi\Renaissance.RestApi\bin\Debug\System.Web.Http.WebHost.xml
 C:\Users\JFValeroso\documents\visual studio 2010\Projects\Renaissance.RestApi\Renaissance.RestApi\obj\Debug\Renaissance.RestApi.csprojResolveAssemblyReference.cache
+D:\GITRepository\Renaissance.RestApi\Renaissance.RestApi\Renaissance.RestApi\bin\Debug\Renaissance.RestApi.dll
+D:\GITRepository\Renaissance.RestApi\Renaissance.RestApi\Renaissance.RestApi\bin\Debug\Renaissance.RestApi.pdb
+D:\GITRepository\Renaissance.RestApi\Renaissance.RestApi\Renaissance.RestApi\bin\Debug\System.Web.Http.dll
+D:\GITRepository\Renaissance.RestApi\Renaissance.RestApi\Renaissance.RestApi\bin\Debug\System.Net.Http.dll
+D:\GITRepository\Renaissance.RestApi\Renaissance.RestApi\Renaissance.RestApi\bin\Debug\System.Net.Http.Formatting.dll
+D:\GITRepository\Renaissance.RestApi\Renaissance.RestApi\Renaissance.RestApi\bin\Debug\System.Web.Http.WebHost.dll
+D:\GITRepository\Renaissance.RestApi\Renaissance.RestApi\Renaissance.RestApi\bin\Debug\Newtonsoft.Json.dll
+D:\GITRepository\Renaissance.RestApi\Renaissance.RestApi\Renaissance.RestApi\bin\Debug\System.Web.Http.xml
+D:\GITRepository\Renaissance.RestApi\Renaissance.RestApi\Renaissance.RestApi\bin\Debug\System.Net.Http.xml
+D:\GITRepository\Renaissance.RestApi\Renaissance.RestApi\Renaissance.RestApi\bin\Debug\System.Net.Http.Formatting.xml
+D:\GITRepository\Renaissance.RestApi\Renaissance.RestApi\Renaissance.RestApi\bin\Debug\System.Web.Http.WebHost.xml
+D:\GITRepository\Renaissance.RestApi\Renaissance.RestApi\Renaissance.RestApi\obj\Debug\Renaissance.RestApi.csprojResolveAssemblyReference.cache
+D:\GITRepository\Renaissance.RestApi\Renaissance.RestApi\Renaissance.RestApi\obj\Debug\Renaissance.RestApi.dll
+D:\GITRepository\Renaissance.RestApi\Renaissance.RestApi\Renaissance.RestApi\obj\Debug\Renaissance.RestApi.pdb
